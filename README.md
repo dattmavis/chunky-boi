@@ -1,5 +1,8 @@
 # 🎧 MP3 Chunk Transcriber w/ OpenAI Whisper + FFmpeg
 
+![image](https://github.com/user-attachments/assets/1b33a173-27ae-498d-9910-9a70ce3e143a)
+
+
 This Python script:
 1. Splits a long `.mp3` file into smaller chunks using `ffmpeg`.
 2. Sends each chunk to OpenAI’s Whisper API for transcription.
